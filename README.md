@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="35px"> Hi, I'm Deelawnahk
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="35px"> Hi, I'm Deelaw Nahk
 
 <div align="center">
 
