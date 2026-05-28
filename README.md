@@ -1,58 +1,91 @@
-# 👋 Hi, I'm Deelawnahk
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="35px"> Hi, I'm Deelawnahk
 
-**Full Stack Developer | Vibe Coder | AI & ML Enthusiast**
+<div align="center">
 
-Welcome to my GitHub profile! I'm passionate about building end-to-end applications and crafting elegant solutions to complex problems. I'm currently expanding my expertise into the exciting world of **Artificial Intelligence and Machine Learning**.
+### 🚀 Full Stack Developer | 🎨 Vibe Coder | 🤖 AI & ML Enthusiast
 
----
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Passionate+about+AI+%26+Machine+Learning;Creating+Clean+%26+Scalable+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me
-
-- 💻 **Full Stack Development**: Experienced in building complete web applications from frontend to backend
-- 🎨 **Vibe Coder**: I believe in writing code that not only works but feels right—clean, maintainable, and intuitive
-- 🤖 **AI & ML Learning**: Currently diving deep into machine learning algorithms, neural networks, and AI applications
-- 🎯 **Problem Solver**: Love tackling challenges and turning ideas into reality
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### Frontend
-- JavaScript / TypeScript
-- React, Vue, or Angular
-- HTML & CSS
+💻 Passionate **Full Stack Developer** experienced in building scalable and modern web applications from frontend to backend.
 
-### Backend
-- Node.js
-- Python
-- RESTful APIs
+🎨 A **Vibe Coder** who believes code should not only work but also feel clean, intuitive, and maintainable.
 
-### Tools & Platforms
-- Git & GitHub
-- Docker
-- Databases (SQL & NoSQL)
+🤖 Currently exploring the exciting world of **Artificial Intelligence & Machine Learning**.
 
-### Currently Learning
-- Machine Learning
-- Deep Learning
-- AI Model Development
+🎯 I love transforming ideas into real-world applications and solving complex technical challenges.
 
 ---
 
-## 📚 What I'm Working On
+# 🛠️ Tech Stack
 
-I continually build projects that combine my full-stack expertise with emerging AI/ML technologies. Check out my repositories to see what I'm up to!
+<div align="center">
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,tailwind" />
+</p>
+
+## Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
+</p>
+
+## Database & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+## Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
+
+## Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 📚 Currently Working On
 
-I'm always open to:
-- 💡 Interesting project collaborations
-- 🔗 Networking with fellow developers
-- 📖 Sharing knowledge and learning together
-- 🎤 Discussing tech trends and best practices
+* 🚀 Full Stack Applications
+* 🤖 AI-Powered Solutions
+* 📊 Machine Learning Projects
+* 🧠 Deep Learning Experiments
+* ⚡ Performance Optimization
 
-Please feel free to contact me or explore my repositories. Let's build something amazing together!
+---
 
------------------------------------
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Deelawnahk&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Create. Innovate.” ✨
+
+⭐ Thanks for visiting my profile!
+
+</div>
