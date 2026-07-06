@@ -37,7 +37,7 @@
 ## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 ## Database & Cloud
@@ -69,16 +69,6 @@
 * 📊 Machine Learning Projects
 * 🧠 Deep Learning Experiments
 * ⚡ Performance Optimization
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Deelawnahk&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
